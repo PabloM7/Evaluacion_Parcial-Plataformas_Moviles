@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Evaluacion Parcial</string>
+    <string-array name="genero">
+        <item>Seleccione Genero</item>
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+    <string-array name="raza">
+        <item>Seleccione Raza</item>
+        <item>Mini Toy</item>
+        <item>Pequeña</item>
+        <item>Mediana</item>
+        <item>Grande</item>
+        <item>Gigante</item>
+    </string-array>
+</resources>
